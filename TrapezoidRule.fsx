@@ -2,6 +2,7 @@ open System
 
 let main() =
 
+  //Function to integrate
   let f x = 
       System.Math.Sin(x)
   
